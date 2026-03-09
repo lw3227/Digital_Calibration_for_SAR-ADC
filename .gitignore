@@ -57,3 +57,7 @@ Thumbs.db
 # MATLAB data/results (optional)
 *.mat
 *.fig
+
+# Local-only Chinese reports (do not track)
+说明文档.pdf
+21312379 吴林晓 高精度SAR ADC设计与数字校准（幸新鹏）.pdf
